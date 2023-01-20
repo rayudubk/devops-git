@@ -1,1 +1,1 @@
-created in cloned repository
+created in cloned repository - modified in feature for checking stashing
